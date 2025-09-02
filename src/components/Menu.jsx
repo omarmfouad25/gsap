@@ -67,7 +67,7 @@ const Menu = () => {
             <div className="recipe">
                 <div ref={contentRef} className="info">
                     <p>Recipe for:</p>
-                    <o id="title">{currentCocktail.name}</o>
+                    <p id="title">{currentCocktail.name}</p>
                 </div>
                 <div className="details">
                     <h2>{currentCocktail.title}</h2>
