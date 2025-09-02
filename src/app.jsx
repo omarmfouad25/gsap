@@ -1,6 +1,6 @@
 import gsap from 'gsap';
 import { ScrollTrigger, SplitText } from 'gsap/all'
-import NavBar from './components/navBar';
+import NavBar from './components/Navbar';
 import { useGSAP } from '@gsap/react';
 import Hero from './components/Hero';
 import Cocktails from './components/Cocktails';
